@@ -15,6 +15,7 @@ public class Main {
                 {"3", "3", "3", "3"},
                 {"4", "4", "4", "4"}
         };
+
         try {
             main.stringExceptionTest(arr);
             main.sumOfMatrix(arr);
